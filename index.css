@@ -1,0 +1,111 @@
+body{
+    background-color:whitesmoke;
+     color: black;
+     font-family: Arial, Helvetica, sans-serif;
+     font: 25px;
+     line-height: 1.6em;
+     margin:0;
+}
+.container{
+    width: 80%;
+    margin:auto;
+    overflow: hidden;
+}
+#main-header{
+    color: navy;
+    background-color:honeydew;
+
+}
+#navbar{
+    background-color: grey;
+    color: black;
+    font-weight:bolder;
+    
+    letter-spacing:1px;
+   
+
+}
+#navbar li{
+    display: inline;
+    
+    
+
+}
+#navbar a{
+    font-size:30px;
+    float: right;
+    padding-left: 10px;
+
+
+}
+
+
+
+
+#search{
+    
+    padding-top:15px;
+    padding-bottom:10px;
+}
+#showcase{
+    background-image:url('../web project submit/images/jj.jpg' );
+    background-position:center right ;
+    min-height: 300px;
+    margin-bottom: 30px;
+    padding-bottom:20px;
+    background-size: cover;
+    word-spacing:4px;
+    letter-spacing:2px;
+    font-weight: bold;
+    font-size: 20px;
+    line-height:40px;
+}
+#showcase h1{
+    background-color:wheat;
+    padding-left: 10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-top: 10px;
+    border-radius:20px;
+    text-align: center;
+} 
+#main{
+    background-color:antiquewhite;
+    font-size: 20px;
+    border-radius:20px;
+    padding:10px;
+    float: left 40 px;
+    
+}
+#main h1{
+    text-align: center;
+    background-color:ghostwhite;
+     padding-top:10px;
+     padding-bottom:10px;
+     border-radius:20px;
+     
+} 
+#sidebar{
+background-color: gray;
+border-radius: 20px;
+padding: 10px;
+margin-top:40px;
+font-size:20px;
+
+}
+/*@media{
+    #main{
+        width: 100%;
+        float: none;
+    }
+    #sidebar{
+        width: 100%;
+        float: none;
+    }
+}*/      
+    
+
+      
+   
+     
+
